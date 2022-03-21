@@ -1,4 +1,4 @@
-i hate myself
+помргите
 
 <!---
 alphaiscodinghard/alphaiscodinghard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
